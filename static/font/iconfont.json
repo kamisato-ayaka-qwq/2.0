@@ -1,0 +1,23 @@
+{
+  "id": "4473845",
+  "name": "www",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "36889635",
+      "name": "网易云音乐-copy-copy",
+      "font_class": "netease-cloud",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "38694630",
+      "name": "哔哩哔哩-copy",
+      "font_class": "bilibili",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    }
+  ]
+}
